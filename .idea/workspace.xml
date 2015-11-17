@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef9241ea-7ed3-411a-b516-e75ae7472a09" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular/angular.min.js.gzip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-loading-bar/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/node_modules/yabh/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-loading-bar/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/node_modules/yabh/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-loading-bar/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/node_modules/yabh/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-loading-bar/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/node_modules/yabh/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/node_modules/yabh/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-loading-bar/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/node_modules/yabh/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-loading-bar/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/build_examples/browserify/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/build_examples/r.js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/build_examples/webpack/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/build_examples/webpack_es6/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/build_examples/webpack_es6_2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/build_examples/browserify/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/build_examples/r.js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/build_examples/webpack/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/build_examples/webpack_es6/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/node_modules/yabh/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-loading-bar/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/TRANSITION.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about-code-for-miami.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/dist/angular-cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/dist/angular-cache.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/dist/angular-cache.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular/angular-csp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular/angular.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-loading-bar/example/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/build_examples/browserify/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/build_examples/r.js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/build_examples/webpack/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/build_examples/webpack_es6/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/build_examples/webpack_es6_2/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/build_examples/browserify/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/build_examples/r.js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/build_examples/webpack/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/build_examples/webpack_es6/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-loading-bar/example/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/node_modules/yabh/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-loading-bar/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/build_examples/r.js/bundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/dist/cachefactory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/dist/cachefactory.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/dist/cachefactory.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/circle.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/circle.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/node_modules/yabh/circle.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/civic-hacking-101.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/get-started-with-civic-hacking.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/build_examples/browserify/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/build_examples/r.js/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/build_examples/webpack/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/build_examples/webpack_es6/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/build_examples/webpack_es6_2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/build_examples/browserify/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/build_examples/r.js/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/build_examples/webpack/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/build_examples/webpack_es6/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-loading-bar/example/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/node_modules/yabh/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/node_modules/yabh/test/index.peek.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/node_modules/yabh/test/index.pop.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/node_modules/yabh/test/index.push.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/node_modules/yabh/test/index.remove.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/node_modules/yabh/test/index.removeAll.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/node_modules/yabh/test/index.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-loading-bar/test/karma-angular-1.2.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-loading-bar/test/karma-angular-1.3.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/node_modules/yabh/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-loading-bar/test/loading-bar-interceptor-config.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-loading-bar/test/loading-bar-interceptor.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-loading-bar/build/loading-bar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-loading-bar/src/loading-bar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-loading-bar/build/loading-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-loading-bar/src/loading-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/build_examples/r.js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/build_examples/r.js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/node_modules/yabh/mocha.start.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/open-issues.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/node_modules/yabh/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-loading-bar/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/build_examples/r.js/require.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/build_examples/r.js/require.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/build_examples/webpack/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/build_examples/webpack_es6/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/build_examples/webpack_es6_2/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/build_examples/webpack/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/build_examples/webpack_es6/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/node_modules/yabh/dist/yabh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/node_modules/yabh/dist/yabh.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular-cache/node_modules/cachefactory/node_modules/yabh/dist/yabh.min.map" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/_foundation.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/_normalize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/_settings.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/app.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/_functions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/_settings.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_accordion.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_alert-boxes.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_block-grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_breadcrumbs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_button-groups.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_clearing.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_dropdown-buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_dropdown.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_flex-video.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_global.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_icon-bar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_inline-lists.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_joyride.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_keystrokes.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_labels.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_magellan.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_offcanvas.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_orbit.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_panels.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_pricing-tables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_progress-bars.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_range-slider.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_reveal.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_side-nav.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_split-buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_sub-nav.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_switches.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_tables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_tabs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_thumbs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_tooltips.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_top-bar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_type.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_assets/scss/foundation/components/_visibility.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_layout-angular.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_layout-sub.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_layout.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_layout_headings_only.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_partials/_footer.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_partials/_head.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_partials/_header.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_partials/_header_headings_only.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_partials/_nav-main.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/about-code-for-miami.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/civic-hacking-101.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon-16x16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon-32x32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon-96x96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/get-started-with-civic-hacking.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/about/cyberstrike.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/about/dominantculture.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/about/ernieatlyd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/about/mikesarasti.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/about/nightshiftc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/about/rsm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/about/ungerwoman.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/heros/bridge.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/heros/love.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/heros/pelicans.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/heros/rain.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/heros/sand.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/heros/user.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/arrow-black.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/arrow.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/axe-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/axe.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/console.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/cube.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/data-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/data.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/helmet.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/list.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/pencil.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/talk-bubble.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/partner-code-for-america.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/partner-lab-miami.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/partner-miami-dade.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/controllers/projectsCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/foundation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/foundation.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/foundation/foundation.abide.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/foundation/foundation.accordion.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/foundation/foundation.alert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/foundation/foundation.clearing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/foundation/foundation.dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/foundation/foundation.equalizer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/foundation/foundation.interchange.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/foundation/foundation.joyride.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/foundation/foundation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/foundation/foundation.magellan.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/foundation/foundation.offcanvas.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/foundation/foundation.orbit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/foundation/foundation.reveal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/foundation/foundation.slider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/foundation/foundation.tab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/foundation/foundation.tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/foundation/foundation.topbar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/services/cfaApi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/fastclick.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/jquery.cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/modernizr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/placeholder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/angular-loading-bar/build/loading-bar.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/angular-loading-bar/build/loading-bar.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/open-issues.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects.jade" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deploy.sh" afterPath="$PROJECT_DIR$/deploy.sh" />
+    </list>
+    <ignored path="new-cfm.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="new-cfm" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="deploy.sh" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/deploy.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.42525774">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/deploy.sh" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="100" />
+    <option name="y" value="23" />
+    <option name="width" value="1340" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="new-cfm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="new-cfm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="new-cfm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef9241ea-7ed3-411a-b516-e75ae7472a09" name="Default" comment="" />
+      <created>1447721254162</created>
+      <option name="number" value="Default" />
+      <updated>1447721254162</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="100" y="23" width="1340" height="873" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sh" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/deploy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42525774">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
